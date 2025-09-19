@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\juan\Documents\IMD\SDK\FAP50\x64\Release\app_fap50_windows.exe</FullPath>
+      <FullPath>C:\SW_Dev\git_test\Main_Submodule\app\x64\Release\app_fap50_windows.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

@@ -318,23 +318,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juan\\.nuget\\packages\\": {},
+    "C:\\Users\\casperlin\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\juan\\Documents\\IMD\\SDK\\FAP50_SDK_And_Demos\\app\\Windows\\fap50_c#_demo\\FAP50Demo.csproj",
+      "projectUniqueName": "C:\\SW_Dev\\git_test\\Main_Submodule\\app\\app\\Windows\\fap50_c#_demo\\FAP50Demo.csproj",
       "projectName": "FAP50Demo",
-      "projectPath": "C:\\Users\\juan\\Documents\\IMD\\SDK\\FAP50_SDK_And_Demos\\app\\Windows\\fap50_c#_demo\\FAP50Demo.csproj",
-      "packagesPath": "C:\\Users\\juan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\juan\\Documents\\IMD\\SDK\\FAP50_SDK_And_Demos\\app\\Windows\\fap50_c#_demo\\obj\\",
+      "projectPath": "C:\\SW_Dev\\git_test\\Main_Submodule\\app\\app\\Windows\\fap50_c#_demo\\FAP50Demo.csproj",
+      "packagesPath": "C:\\Users\\casperlin\\.nuget\\packages\\",
+      "outputPath": "C:\\SW_Dev\\git_test\\Main_Submodule\\app\\app\\Windows\\fap50_c#_demo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\juan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\casperlin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -362,7 +362,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -400,7 +400,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
